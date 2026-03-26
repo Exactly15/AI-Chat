@@ -1,4 +1,4 @@
-# 🦷 Voice Agent Simulator
+# Voice Agent Simulator
 
 A terminal-based simulator that replicates the prompt architecture and conversation patterns of voice AI agents built on platforms like **Retell AI** and **ElevenLabs** — including persona consistency, multi-turn memory management, fallback logic, and escalation handling.
 
